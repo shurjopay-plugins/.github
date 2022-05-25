@@ -28,3 +28,20 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 ><a href = "https://github.com/shurjoPay-Plugins/Raw-PHP"><strong>PHP</a>
 
 ><a href = "https://github.com/shurjoPay-Plugins/Reseller-Plugin"><strong>Reseller</a>
+
+  
+  ### API Documentation
+    ShurjoPay also provides restful API's to integrate with web and mobile applications. 
+    Follow the below API documentation guide to know more.
+    URL: https://docs.google.com/document/d/19J4HE0j873nBJqcN-uRBYYAa_qBA3p1XSY-jy2fwvEE/edit?usp=sharing
+ 
+  ### Postman Documentation
+
+    This document will illustrate the overall request and response flow.
+    URL : https://documenter.getpostman.com/view/6335853/U16dS8ig	
+		
+### Who do I talk to? ###
+	For any technical assistance please contact to: https://shurjopay.com.bd/#contacts
+
+
+
