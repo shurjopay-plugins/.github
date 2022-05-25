@@ -27,4 +27,4 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 
 ><a href = "https://github.com/shurjoPay-Plugins/Raw-PHP"><strong>PHP</a>
 
-><a href = "https://github.com/shurjoPay-Plugins/Reseller-Plugin"><strong>Shopup Reseller</a>
+><a href = "https://github.com/shurjoPay-Plugins/Reseller-Plugin"><strong>Reseller</a>
