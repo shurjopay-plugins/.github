@@ -23,6 +23,8 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 
 ><a href = "https://github.com/shurjoPay-Plugins/java"><strong>Java</a>
 
+><a href = "https://github.com/shurjopay-plugins/sp-plugin-spring"><strong>Spring</a>
+
 ><a href = "https://github.com/shurjoPay-Plugins/Python"><strong>Python</a>
 
 ><a href = "https://github.com/shurjoPay-Plugins/Raw-PHP"><strong>PHP</a>
