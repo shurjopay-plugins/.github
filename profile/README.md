@@ -11,7 +11,7 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 
 ><a href = "https://github.com/shurjoPay-Plugins/woocommerce"><strong>WooCommerce</a>
 
-><a href = "https://github.com/shurjoPay-Plugins/Flutter"><strong>Flutter</a>
+><a href = "https://github.com/shurjopay-plugins/sp-plugin-flutter"><strong>Flutter</a>
 
 ><a href = "https://github.com/shurjoPay-Plugins/Android-SDK"><strong>Android</a>
 
