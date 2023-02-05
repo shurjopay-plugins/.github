@@ -27,6 +27,8 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 
 ><a href = "https://github.com/shurjoPay-Plugins/sp-plugin-python"><strong>Python</a>
 
+><a href = "https://github.com/shurjoPay-Plugins/sp-plugin-dotnet"><strong>.Net</a>
+
 ><a href = "https://github.com/shurjoPay-Plugins/Raw-PHP"><strong>PHP</a>
 
 ><a href = "https://github.com/shurjoPay-Plugins/Reseller-Plugin"><strong>Reseller</a>
