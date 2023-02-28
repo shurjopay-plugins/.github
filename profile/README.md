@@ -88,7 +88,7 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
     						<tr>
     						<th scope="row">Python</th>
     						<th><a class="table_link" href="https://pypi.org/project/shurjopay-plugin/" target="_blank" >shurjopay-plugin 0.1.4</a></th>
-    						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-laravel" target="_blank">sp-plugin-python</a></th>
+    						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-python" target="_blank">sp-plugin-python</a></th>
     						</tr>
     						<tr>
     						<th scope="row">.net</th>
