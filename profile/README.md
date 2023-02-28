@@ -55,9 +55,14 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
     						<th id="item-2-3"><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-flutter" target="_blank">sp-plugin-flutter</a></th>
     						</tr>
     						<tr >
-    						<th scope="row">Swift(ios)</th>
+    						<th scope="row">Swift Package(ios)</th>
     						<th><a class="table_link" href="#" target="_blank"></a></th>
     						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-package-ios-swift" target="_blank">sp-package-ios-swift</a></th>
+    						</tr>
+							<tr >
+    						<th scope="row">Swift plugin(ios)</th>
+    						<th><a class="table_link" href="#" target="_blank"></a></th>
+    						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-ios-swift" target="_blank">sp-plugin-ios-swift</a></th>
     						</tr>
     					</tbody>
     					</table>
