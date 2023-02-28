@@ -14,24 +14,19 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 						</thead>
 						<tbody align="left">
 						<tr  id="item-2-2">
-							<th scope="row" >PHP </th>
+							<th scope="row" >PHP &  Laravel</th>
 							<th><a class="table_link" href="https://packagist.org/packages/shurjomukhi/shurjopay-plugin-php" target="_blank">shurjopay-plugin-php 0.1.0</a></th>
 							<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-php" target="_blank">sp-plugin-php</a></th>
 							</tr>
-							<tr>
-							<th scope="row">Wordpress</th>
+	<tr>
+							<th scope="row">Wordpress WooCommerce</th>
 							<th><a class="table_link" href="#" target="_blank"></a></th>
-							<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-wordpress" target="_blank">sp-plugin-wordpress</a></th>
+							<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-woocommerce" target="_blank"> sp-plugin-woocommerce</a></th>
 							</tr>
 							<tr>
 							<th scope="row">Opencart</th>
 							<th><a class="table_link" href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44413&filter_search=shurjopay" target="_blank">shurjoPay 2.1.0</a></th>
 							<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-opencart" target="_blank">sp-plugin-opencart</a></th>
-							</tr>
-							<tr>
-							<th scope="row">WooCommerce</th>
-							<th><a class="table_link" href="#" target="_blank"></a></th>
-							<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-woocommerce" target="_blank"> sp-plugin-woocommerce</a></th>
 							</tr>
 							<tr>
 							<th scope="row">Whmcs</th>
