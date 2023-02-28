@@ -118,4 +118,4 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 
 ### Who do I talk to?
 
-    For any technical assistance please contact to: https://shurjopay.com.bd/#contacts
+    For any technical assistance please contact to: <a class="table_link" href="https://shurjopay.com.bd/#contacts" target="_blank">shurjoPay</a>
