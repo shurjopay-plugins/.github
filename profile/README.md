@@ -45,7 +45,7 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 					<table class="table plugin" >
 						<tbody align="left">
 							<tr>
-							<th width="333px" scope="row">Android</th>
+							<th width="333px" scope="row">Android SDK</th>
 							<th width="333px" ><a class="table_link" href="#" target="_blank"></a></th>
 							<th width="333px"><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-android" target="_blank">sp-plugin-android</a></th>
 							</tr>
