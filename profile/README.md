@@ -86,7 +86,7 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
     						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-spring" target="_blank">sp-plugin-spring</a></th>
     						</tr>
     					<tr>
-    						<th scope="row">Javascript</th>
+    						<th scope="row">JavaScript</th>
     						<th><a class="table_link" href="https://www.npmjs.com/package/shurjopay-js" target="_blank">shurjopay-js @npmjs</a></th>
     						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-js" target="_blank">sp-plugin-js</a></th>
     						</tr>
@@ -101,14 +101,14 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
     						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-python" target="_blank">sp-plugin-python</a></th>
     						</tr>
     						<tr>
-    						<th scope="row">.net</th>
+    						<th scope="row">.NET</th>
     						<th><a class="table_link" href="https://www.nuget.org/packages/ShurjopayPlugin" target="_blank">ShurjopayPlugin @nuget</a></th>
     						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-dotnet" target="_blank">sp-plugin-dotnet</a></th>
     						</tr>
     						<tr>
     						<th scope="row">Rust</th>
-    						<th><a class="table_link" href="https://crates.io/crates/shurjopay-plugin" target="_blank">shurjopay-plugin 0.1.1</a></th>
-    						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-rust" target="_blank">sp-plugin-rust @crates.io</a></th>
+    						<th><a class="table_link" href="https://crates.io/crates/shurjopay-plugin" target="_blank">sp-plugin-rust @crates.io</a></th>
+    						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-rust" target="_blank">sp-plugin-rust</a></th>
     						</tr>
     					</tbody>
     					</table>
