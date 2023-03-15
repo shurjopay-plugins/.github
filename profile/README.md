@@ -15,7 +15,7 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 						<tbody align="left">
 						<tr  id="item-2-2">
 							<th scope="row" >PHP &  Laravel</th>
-							<th><a class="table_link" href="https://packagist.org/packages/shurjomukhi/shurjopay-plugin-php" target="_blank">shurjopay-plugin-php 0.1.0</a></th>
+							<th><a class="table_link" href="https://packagist.org/packages/shurjomukhi/shurjopay-plugin-php" target="_blank">shurjopay-plugin-php @packagist</a></th>
 							<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-php" target="_blank">sp-plugin-php</a></th>
 							</tr>
 	<tr>
@@ -25,7 +25,7 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 							</tr>
 							<tr>
 							<th scope="row">Opencart</th>
-							<th><a class="table_link" href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44413&filter_search=shurjopay" target="_blank">shurjoPay 2.1.0</a></th>
+							<th><a class="table_link" href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44413&filter_search=shurjopay" target="_blank">shurjoPay extension @marketplace</a></th>
 							<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-opencart" target="_blank">sp-plugin-opencart</a></th>
 							</tr>
 							<tr>
@@ -44,14 +44,19 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 						<h4 id="item-2-2"  align="center">MOBILE PLATFORM</h4>
 					<table class="table plugin" >
 						<tbody align="left">
+								<tr>
+							<th width="333px" scope="row">Android plugin</th>
+							<th width="333px" ><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-android" target="_blank">shurjopay package @jitpack.io</a></th>
+							<th width="333px"><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-android">sp-plugin-android</a></th>
+							</tr>
 							<tr>
-							<th width="333px" scope="row">Android SDK</th>
-							<th width="333px" ><a class="table_link" href="#" target="_blank">com.github.shurjopay-plugins:sp-plugin-android:2.2.1</a></th>
+							<th width="333px" scope="row">Android SDK Example</th>
+							<th width="333px" ><a class="table_link" href="#" target="_blank">(Depcricated)</a></th>
 							<th width="333px"><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-android" target="_blank">sp-plugin-android</a></th>
 							</tr>
     						<tr>
     						<th scope="row">Flutter</th>
-    						<th><a class="table_link" href="https://pub.dev/packages/shurjopay" target="_blank">shurjopay 2.0.3 </a></th>
+    						<th><a class="table_link" href="https://pub.dev/packages/shurjopay" target="_blank">shurjopay package @pub.dev</a></th>
     						<th id="item-2-3"><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-flutter" target="_blank">sp-plugin-flutter</a></th>
     						</tr>
     						<tr >
@@ -72,38 +77,38 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
     					<tbody align="left">
     						<tr>
     						<th width="333px" scope="row" >Java</th>
-    						<th width="333px" id="item-2-4"><a class="table_link" href="https://mvnrepository.com/artifact/bd.com.shurjomukhi/sp-plugin-java" target="_blank">sp-plugin-java 0.1.0</a></th>
+    						<th width="333px" id="item-2-4"><a class="table_link" href="https://mvnrepository.com/artifact/bd.com.shurjomukhi/sp-plugin-java" target="_blank">sp-plugin-java @maven</a></th>
     						<th width="333px"><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-java" target="_blank">sp-plugin-java</a></th>
     						</tr>
     						<tr>
     						<th    scope="row">Spring</th>
-    						<th><a class="table_link" href="https://mvnrepository.com/artifact/bd.com.shurjomukhi/sp-plugin-spring" target="_blank">sp-plugin-spring 0.1.0</a></th>
+    						<th><a class="table_link" href="https://mvnrepository.com/artifact/bd.com.shurjomukhi/sp-plugin-spring" target="_blank">sp-plugin-spring @maven</a></th>
     						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-spring" target="_blank">sp-plugin-spring</a></th>
     						</tr>
     					<tr>
     						<th scope="row">Javascript</th>
-    						<th><a class="table_link" href="https://www.npmjs.com/package/shurjopay-js" target="_blank">shurjopay-js 0.1.1</a></th>
+    						<th><a class="table_link" href="https://www.npmjs.com/package/shurjopay-js" target="_blank">shurjopay-js @npmjs</a></th>
     						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-js" target="_blank">sp-plugin-js</a></th>
     						</tr>
     						<tr>
     						<th scope="row">NodeJS</th>
-    						<th><a class="table_link" href="https://www.npmjs.com/package/shurjopay" target="_blank">shurjopay 0.10.3</a></th>
+    						<th><a class="table_link" href="https://www.npmjs.com/package/shurjopay" target="_blank">shurjopay@npmjs</a></th>
     						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-nodejs" target="_blank">sp-plugin-nodejs</a></th>
     						</tr>
     						<tr>
     						<th scope="row">Python</th>
-    						<th><a class="table_link" href="https://pypi.org/project/shurjopay-plugin/" target="_blank" >shurjopay-plugin 0.1.4</a></th>
+    						<th><a class="table_link" href="https://pypi.org/project/shurjopay-plugin/" target="_blank" >shurjopay-plugin @pypi</a></th>
     						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-python" target="_blank">sp-plugin-python</a></th>
     						</tr>
     						<tr>
     						<th scope="row">.net</th>
-    						<th><a class="table_link" href="https://www.nuget.org/packages/ShurjopayPlugin" target="_blank">ShurjopayPlugin 0.1.1</a></th>
+    						<th><a class="table_link" href="https://www.nuget.org/packages/ShurjopayPlugin" target="_blank">ShurjopayPlugin @nuget</a></th>
     						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-dotnet" target="_blank">sp-plugin-dotnet</a></th>
     						</tr>
     						<tr>
     						<th scope="row">Rust</th>
     						<th><a class="table_link" href="https://crates.io/crates/shurjopay-plugin" target="_blank">shurjopay-plugin 0.1.1</a></th>
-    						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-rust" target="_blank">sp-plugin-rust</a></th>
+    						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-rust" target="_blank">sp-plugin-rust @crates.io</a></th>
     						</tr>
     					</tbody>
     					</table>
