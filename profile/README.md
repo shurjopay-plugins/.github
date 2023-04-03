@@ -1,6 +1,7 @@
 # <i>Welcome to ShurjoPay Plugins Hub</i>
 
-ShurjoPay has multiple plugins, modules and SDK's of different programming languages and frameworks ready for the developers. So, the merchants and their developers can effortlessly integrate shurjoPay to their respective websites, applications & mobile apps with us. Anyone can integrate shurjoPay payment gateway with their application and test the payment flow with sandbox.
+ShurjoPay has multiple plugins, modules and SDK's of different programming languages and frameworks ready for the developers. So, the merchants and their developers can effortlessly integrate shurjoPay to their respective websites, applications & mobile apps with us. Anyone can integrate shurjoPay payment gateway with their application and test the payment flow with sandbox. <br> <br>
+[Sample applications and projects](https://github.com/shurjopay-plugins/sp-plugin-usage-examples) in many different languages and frameworks showing shurjopay integration.
 
 <section  class="docs-section" id="item-2-1">
 					<h3>PHP & CMS</h3>
