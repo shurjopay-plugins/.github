@@ -5,24 +5,24 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 
 <section  class="docs-section" id="item-2-1">
 					<h3>PHP & CMS</h3>
-					<table  class="table plugin" >
+					<table  class="table plugin" width="100%" >
 						<thead align="left">
 							<tr>
-							<th  width="333px" scope="col">Framework/Language</th>
-							<th width="333px" scope="col">Package</th>
-							<th width="333px" scope="col">Source</th>
+							<th width="25%" scope="col">Framework/Language</th>
+							<th width="35%" scope="col">Package</th>
+							<th scope="col">Source</th>
 							</tr>
 						</thead>
 						<tbody align="left">
-						<tr  id="item-2-2">
-							<th scope="row" >PHP &  Laravel</th>
-							<th><a class="table_link" href="https://packagist.org/packages/shurjomukhi/shurjopay-plugin-php" target="_blank">shurjopay-plugin-php @packagist</a></th>
-							<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-php" target="_blank">sp-plugin-php</a></th>
+						<tr id="item-2-2">
+							<td scope="row">PHP &  Laravel</td>
+							<td><a class="table_link" href="https://packagist.org/packages/shurjomukhi/shurjopay-plugin-php" target="_blank">shurjopay-plugin-php @packagist</a></td>
+							<td><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-php" target="_blank">sp-plugin-php</a></td>
 							</tr>
 	<tr>
-							<th scope="row">Wordpress WooCommerce</th>
+							<th scope="row">WooCommerce</th>
 							<th><a class="table_link" href="#" target="_blank"></a></th>
-							<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-woocommerce" target="_blank"> sp-plugin-woocommerce</a></th>
+							<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-woocommerce" target="_blank">sp-plugin-woocommerce</a></th>
 							</tr>
 							<tr>
 							<th scope="row">Opencart</th>
@@ -30,7 +30,7 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 							<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-opencart" target="_blank">sp-plugin-opencart</a></th>
 							</tr>
 							<tr>
-							<th scope="row">Whmcs</th>
+							<th scope="row">WHMCS</th>
 							<th><a class="table_link" href="#" target="_blank"></a></th>
 							<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-whmcs" target="_blank">sp-plugin-whmcs</a></th>
 							</tr>
@@ -44,6 +44,13 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 						<!-- mobile -->
 						<h3 id="item-2-2"  >MOBILE PLATFORM</h3>
 					<table class="table plugin" >
+						<thead align="left">
+							<tr>
+							<th width="25%" scope="col">Framework/Language</th>
+							<th width="35%" scope="col">Package</th>
+							<th scope="col">Source</th>
+							</tr>
+						</thead>
 						<tbody align="left">
 								<tr>
 							<th width="333px" scope="row">Android plugin</th>
@@ -52,7 +59,7 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 							</tr>
 							<tr>
 							<th width="333px" scope="row">Android SDK Example</th>
-							<th width="333px" >(Depcricated)</th>
+							<th width="333px" >(Deprecated)</th>
 							<th width="333px"><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-android" target="_blank">sp-plugin-android</a></th>
 							</tr>
     						<tr>
