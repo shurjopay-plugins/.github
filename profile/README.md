@@ -6,11 +6,11 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 <section  class="docs-section" id="item-2-1">
 					<h3>PHP & CMS</h3>
 					<table  class="table plugin" width="100%" >
-						<thead align="left">
+						<tdead align="left" >
 							<tr>
-							<th width="25%" scope="col">Framework/Language</th>
-							<th width="35%" scope="col">Package</th>
-							<th scope="col">Source</th>
+							<th width="333px"  scope="col">Framework/Language</th>
+							<th width="333px" scope="col">Package</th>
+							<th  width="333px">Source</th>
 							</tr>
 						</thead>
 						<tbody align="left">
@@ -20,103 +20,96 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 							<td><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-php" target="_blank">sp-plugin-php</a></td>
 							</tr>
 	<tr>
-							<th scope="row">WooCommerce</th>
-							<th><a class="table_link" href="#" target="_blank"></a></th>
-							<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-woocommerce" target="_blank">sp-plugin-woocommerce</a></th>
+							<td scope="row">WooCommerce</td>
+							<td><a class="table_link" href="#" target="_blank"></a></td>
+							<td><a class="table_link" href="https://github.com/shurjopay-plugins/sp-woocommerce" target="_blank">sp-plugin-woocommerce</a></td>
 							</tr>
 							<tr>
-							<th scope="row">Opencart</th>
-							<th><a class="table_link" href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44413&filter_search=shurjopay" target="_blank">shurjoPay extension @marketplace</a></th>
-							<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-opencart" target="_blank">sp-plugin-opencart</a></th>
+							<td scope="row">Opencart</td>
+							<td><a class="table_link" href="https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44413&filter_search=shurjopay" target="_blank">shurjoPay extension @marketplace</a></td>
+							<td><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-opencart" target="_blank">sp-plugin-opencart</a></td>
 							</tr>
 							<tr>
-							<th scope="row">WHMCS</th>
-							<th><a class="table_link" href="#" target="_blank"></a></th>
-							<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-whmcs" target="_blank">sp-plugin-whmcs</a></th>
+							<td scope="row">WHMCS</td>
+							<td><a class="table_link" href="#" target="_blank"></a></td>
+							<td><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-whmcs" target="_blank">sp-plugin-whmcs</a></td>
 							</tr>
 							<tr>
-							<th scope="row">Prestashop</th>
-							<th><a class="table_link" href="#" target="_blank"></a></th>
-							<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-prestashop" target="_blank">sp-plugin-prestashop</a></th>
+							<td scope="row">Prestashop</td>
+							<td><a class="table_link" href="#" target="_blank"></a></td>
+							<td><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-prestashop" target="_blank">sp-plugin-prestashop</a></td>
 							</tr>
 						</tbody>
 						</table>
 						<!-- mobile -->
-						<h3 id="item-2-2"  >MOBILE PLATFORM</h3>
-					<table class="table plugin" >
-						<thead align="left">
-							<tr>
-							<th width="25%" scope="col">Framework/Language</th>
-							<th width="35%" scope="col">Package</th>
-							<th scope="col">Source</th>
-							</tr>
-						</thead>
+						<h3 id="item-2-2"  >Mobile Platfrom</h3>
+					<table class="table plugin" width="100%" >
 						<tbody align="left">
 								<tr>
-							<th width="333px" scope="row">Android plugin</th>
-							<th width="333px" ><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-android" target="_blank">shurjopay package @jitpack.io</a></th>
-							<th width="333px"><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-android">sp-plugin-android</a></th>
+							<td width="25%" scope="row">Android plugin</td>
+							<td width="35%" ><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-android" target="_blank">shurjopay package @jitpack.io</a></td>
+							<td><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-android">sp-plugin-android</a></td>
 							</tr>
 							<tr>
-							<th width="333px" scope="row">Android SDK Example</th>
-							<th width="333px" >(Deprecated)</th>
-							<th width="333px"><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-android" target="_blank">sp-plugin-android</a></th>
+							<td width="333px" scope="row">Android SDK Example</td>
+							<td width="333px" >(Deprecated)</td>
+							<td width="333px"><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-android" target="_blank">sp-plugin-android</a></td>
 							</tr>
     						<tr>
-    						<th scope="row">Flutter</th>
-    						<th><a class="table_link" href="https://pub.dev/packages/shurjopay" target="_blank">shurjopay package @pub.dev</a></th>
-    						<th id="item-2-3"><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-flutter" target="_blank">sp-plugin-flutter</a></th>
+    						<td scope="row">Flutter</td>
+    						<td><a class="table_link" href="https://pub.dev/packages/shurjopay" target="_blank">shurjopay package @pub.dev</a></td>
+    						<td id="item-2-3"><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-flutter" target="_blank">sp-plugin-flutter</a></td>
     						</tr>
     						<tr >
-    						<th scope="row">Swift Package(ios)</th>
-    						<th><a class="table_link" href="#" target="_blank"></a></th>
-    						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-package-ios-swift" target="_blank">sp-package-ios-swift</a></th>
+    						<td scope="row">Swift Package(ios)</td>
+    						<td><a class="table_link" href="#" target="_blank"></a></td>
+    						<td><a class="table_link" href="https://github.com/shurjopay-plugins/sp-package-ios-swift" target="_blank">sp-package-ios-swift</a></td>
     						</tr>
 							<tr >
-    						<th scope="row">Swift plugin(ios)</th>
-    						<th><a class="table_link" href="#" target="_blank"></a></th>
-    						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-ios-swift" target="_blank">sp-plugin-ios-swift</a></th>
+    						<td scope="row">Swift plugin(ios)</td>
+    						<td><a class="table_link" href="#" target="_blank"></a></td>
+    						<td><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-ios-swift" target="_blank">sp-plugin-ios-swift</a></td>
     						</tr>
     					</tbody>
     					</table>
     				<!-- Java -->
-    				<h3 >JAVA, JAVASCRIPT & OTHERS</h3>
-    				<table  class="table plugin" >
+    				<h3 >Java, JavaScript & Others</h3>
+    				<table  class="table plugin" width="100%">
     					<tbody align="left">
     						<tr>
-    						<th width="333px" scope="row" >Java</th>
-    						<th width="333px" id="item-2-4"><a class="table_link" href="https://mvnrepository.com/artifact/bd.com.shurjomukhi/sp-plugin-java" target="_blank">sp-plugin-java @maven</a></th>
-    						<th width="333px"><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-java" target="_blank">sp-plugin-java</a></th>
+    						<td width="25%" scope="row" >Java</td>
+    						<td width="35%" id="item-2-4"><a class="table_link" href="https://mvnrepository.com/artifact/bd.com.shurjomukhi/sp-plugin-java" target="_blank">sp-plugin-java @maven</a></td>
+    						<td ><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-java" target="_blank">sp-plugin-java</a></td>
     						</tr>
     						<tr>
-    						<th    scope="row">Spring</th>
-    						<th><a class="table_link" href="https://mvnrepository.com/artifact/bd.com.shurjomukhi/sp-plugin-spring" target="_blank">sp-plugin-spring @maven</a></th>
-    						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-spring" target="_blank">sp-plugin-spring</a></th>
+    						<td    scope="row">Spring</td>
+    						<td><a class="table_link" href="https://mvnrepository.com/artifact/bd.com.shurjomukhi/sp-plugin-spring" target="_blank">sp-plugin-spring @maven</a></td>
+    						<td><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-spring" target="_blank">sp-plugin-spring</a></td>
     						</tr>
     					<tr>
-    						<th scope="row">JavaScript</th>
-    						<th><a class="table_link" href="https://www.npmjs.com/package/shurjopay-js" target="_blank">shurjopay-js @npmjs</a></th>
-    						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-js" target="_blank">sp-plugin-js</a></th>
+    						<td scope="row">JavaScript</td>
+    						<td><a class="table_link" href="https://www.npmjs.com/package/shurjopay-js" target="_blank">shurjopay-js @npmjs</a></td>
+    						<td><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-js" target="_blank">sp-plugin-js</a></td>
     						</tr>
     						<tr>
-    						<th scope="row">NodeJS</th>
-    						<th><a class="table_link" href="https://www.npmjs.com/package/shurjopay" target="_blank">shurjopay@npmjs</a></th>
-    						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-nodejs" target="_blank">sp-plugin-nodejs</a></th>
+    						<td scope="row">NodeJS</td>
+    						<td><a class="table_link" href="https://www.npmjs.com/package/shurjopay" target="_blank">shurjopay@npmjs</a></td>
+    						<td><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-nodejs" target="_blank">sp-plugin-nodejs</a></td>
     						</tr>
     						<tr>
-    						<th scope="row">Python</th>
-    						<th><a class="table_link" href="https://pypi.org/project/shurjopay-plugin/" target="_blank" >shurjopay-plugin @pypi</a></th>
-    						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-python" target="_blank">sp-plugin-python</a></th>
+    						<td scope="row">Python</td>
+    						<td><a class="table_link" href="https://pypi.org/project/shurjopay-plugin/" target="_blank" >shurjopay-plugin @pypi</a></td>
+    						<td><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-python" target="_blank">sp-plugin-python</a></td>
     						</tr>
     						<tr>
-    						<th scope="row">.NET</th>
-    						<th><a class="table_link" href="https://www.nuget.org/packages/ShurjopayPlugin" target="_blank">ShurjopayPlugin @nuget</a></th>
-    						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-dotnet" target="_blank">sp-plugin-dotnet</a></th>
+    						<td scope="row">.NET</td>
+    						<td><a class="table_link" href="https://www.nuget.org/packages/ShurjopayPlugin" target="_blank">ShurjopayPlugin @nuget</a></td>
+    						<td><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-dotnet" target="_blank">sp-plugin-dotnet</a></td>
     						</tr>
     						<tr>
-    						<th scope="row">Rust</th>
-    						<th><a class="table_link" href="https://crates.io/crates/shurjopay-plugin" target="_blank">sp-plugin-rust @crates.io</a></th>
-    						<th><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-rust" target="_blank">sp-plugin-rust</a></th>
+    						<td width="333px" scope="row">Rust</td>
+    						<td width="333px"><a class="table_link" href="https://crates.io/crates/shurjopay-plugin" target="_blank">sp-plugin-rust @crates.io</a></td>
+    						<td width="333px"><a class="table_link" href="https://github.com/shurjopay-plugins/sp-plugin-rust" target="_blank">sp-plugin-rust</a></td>
     						</tr>
     					</tbody>
     					</table>
