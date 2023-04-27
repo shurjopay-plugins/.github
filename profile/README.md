@@ -3,7 +3,6 @@
 ShurjoPay has multiple plugins, modules and SDK's of different programming languages and frameworks ready for the developers. So, the merchants and their developers can effortlessly integrate shurjoPay to their respective websites, applications & mobile apps with us. Anyone can integrate shurjoPay payment gateway with their application and test the payment flow with sandbox. <br> <br>
 [Sample applications and projects](https://github.com/shurjopay-plugins/sp-plugin-usage-examples) in many different languages and frameworks showing shurjopay integration.
 <br><br>	<table  width="100%" >
-          <tr ><td colspan="3"><h3  align="center">PHP & CMS</h3></td></tr>
 						<tdead>
 							<tr>
 							<th align="left" width="333px" >Framework / Language</th>
@@ -12,6 +11,7 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 							</tr>
 						</thead>
 						<tbody >
+						  <tr ><th colspan="3" align="center">PHP & CMS</th></tr>
 						<tr>
 							<td >PHP &  Laravel</td>
 							<td><a  href="https://packagist.org/packages/shurjomukhi/shurjopay-plugin-php" target="_blank">shurjopay-plugin-php @packagist</a></td>
@@ -38,9 +38,9 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 							<td><a href="https://github.com/shurjopay-plugins/sp-plugin-prestashop" target="_blank">sp-plugin-prestashop</a></td>
 							</tr>
 						<!-- mobile -->
-             <tr ><td colspan="3">
-						<h3 align="center">Mobile Platfrom</h3>
-            </td></tr>
+             <tr ><th colspan="3"  align="center">
+						Mobile Platfrom
+            </th></tr>
 								<tr>
 							<td>Android plugin</td>
 							<td><a  href="https://github.com/shurjopay-plugins/sp-plugin-android" target="_blank">shurjopay package @jitpack.io</a></td>
@@ -67,9 +67,9 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
     						<td><a  href="https://github.com/shurjopay-plugins/sp-plugin-ios-swift" target="_blank">sp-plugin-ios-swift</a></td>
     						</tr>
     				<!-- Java -->
-            <tr ><td colspan="3">
-    				<h3 align="center" >Java, JavaScript & Others</h3>
-            </td></tr>
+            <tr ><th colspan="3" align="center">
+    				Java, JavaScript & Others
+            </th></tr>
     						<tr>
     						<td >Java</td>
     						<td  ><a href="https://mvnrepository.com/artifact/bd.com.shurjomukhi/sp-plugin-java" target="_blank">sp-plugin-java @maven</a></td>
