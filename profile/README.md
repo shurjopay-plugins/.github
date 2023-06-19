@@ -37,6 +37,11 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
 							<td><a href="#" target="_blank"></a></td>
 							<td><a href="https://github.com/shurjopay-plugins/sp-plugin-prestashop" target="_blank">sp-plugin-prestashop</a></td>
 							</tr>
+							<tr>
+							<td >Magento 2</td>
+							<td><a href="#" target="_blank"></a></td>
+							<td><a href="https://github.com/shurjopay-plugins/sp-plugin-magento" target="_blank">sp-plugin-magento</a></td>
+							</tr>
 						<!-- mobile -->
              <tr ><th colspan="3"  align="center">
 						Mobile Platfrom
