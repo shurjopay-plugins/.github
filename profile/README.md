@@ -101,6 +101,12 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
     						<td><a href="https://github.com/shurjopay-plugins/sp-plugin-python" target="_blank">sp-plugin-python</a></td>
     						</tr>
     						<tr>
+	  					<tr>
+    						<td>.NET WEB FORM</td>
+    						<td></td>
+    						<td><a href="https://github.com/shurjopay-plugins/sp-plugin-dotnet-web-form" target="_blank">sp-plugin-dotnet-web-form</a></td>
+    						</tr>
+    						<tr>
     						<td>.NET</td>
     						<td><a href="https://www.nuget.org/packages/ShurjopayPlugin" target="_blank">ShurjopayPlugin @nuget</a></td>
     						<td><a href="https://github.com/shurjopay-plugins/sp-plugin-dotnet" target="_blank">sp-plugin-dotnet</a></td>
