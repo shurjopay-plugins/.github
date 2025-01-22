@@ -85,10 +85,16 @@ ShurjoPay has multiple plugins, modules and SDK's of different programming langu
     						<td><a href="https://mvnrepository.com/artifact/bd.com.shurjomukhi/sp-plugin-spring" target="_blank">sp-plugin-spring @maven</a></td>
     						<td><a href="https://github.com/shurjopay-plugins/sp-plugin-spring" target="_blank">sp-plugin-spring</a></td>
     						</tr>
-    					<tr>
+    						<tr>
     						<td>JavaScript</td>
     						<td><a href="https://www.npmjs.com/package/shurjopay-js" target="_blank">shurjopay-js @npmjs</a></td>
     						<td><a href="https://github.com/shurjopay-plugins/sp-plugin-js" target="_blank">sp-plugin-js</a></td>
+    						</tr>
+    						<tr>
+						<tr>
+    						<td>TypeScript</td>
+    						<td></td>
+    						<td><a href="https://github.com/shurjopay-plugins/sp-plugin-typescript" target="_blank">sp-plugin-typescript</a></td>
     						</tr>
     						<tr>
     						<td >NodeJS</td>
